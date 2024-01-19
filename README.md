@@ -1,0 +1,2 @@
+# nin
+Simplified finances app
